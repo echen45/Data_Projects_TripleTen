@@ -2,7 +2,6 @@
 
 
 
-[README.pdf](https://github.com/user-attachments/files/19526715/README.pdf)
 
 
 
